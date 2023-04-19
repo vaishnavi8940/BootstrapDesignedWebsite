@@ -1,0 +1,157 @@
+/* font-family: 'Dancing Script', cursive;
+font-family: 'Domine', serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif; */
+
+body {
+    background-image: url(/Website/images/home-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#flex-icons1 {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+#flex-icons1 img{
+    height: 30px;
+    width: 30px;
+    
+}
+#flex-icons2 {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+#flex-icons2 img{
+   height:30px;
+   width: 30px;
+}
+#flex-icons3 {
+   width:150px;
+   height: 50px;
+   
+}
+#icons-top #flex-icons3{
+   background-color: #87A243;
+   border-radius: 25px;
+   margin-top: 15px;
+   
+}
+#icons-top img{
+  cursor: pointer;
+}
+#icons-top #flex-icons1{
+  
+   margin-right: 0px;
+   
+}
+#flex-icons3 img{
+    height: 25px;
+    width: 25px;    
+    margin-left:0px;
+}
+
+#icons-top{
+ margin-left: 50px;
+}
+.nav-item a:hover{
+    color: rgb(255, 255, 255);
+    background-color: #87A243;
+ }
+ .nav-item a{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+ }
+ #caption-carousel{
+    border: 25px solid white; 
+ }
+ .carousel-item img{
+    height: 550px;
+ }
+ #bg-color{
+    background-color: white;
+ }
+ #bg-color img{
+    display: block;
+    margin: auto;
+ }
+ #green-tea-img{
+    opacity: 0.8;
+ }
+ #green-tea-img:hover{
+    opacity: 1;
+ }
+ #bg-color p, h1{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+ }
+ #bg-color h3{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #87A243;
+ }
+ #bg-color span{
+   margin-left: 50%;
+ }
+ #bg-color button{
+    display: block;
+    margin: auto;
+ }
+ #healthy-tea{
+    background-color: white;
+    margin-right: 12px;
+ }
+ #tred-product{
+    background-color: white;
+    border: 30px solid white;
+ }
+ #card-back{
+    background-image: url(/Website/images/card-back.jpg);
+  height: 1100px;
+ }
+ .tea-title{
+    text-align: center;
+ }
+ .tea-title span{
+   color: #87A243;
+ }
+ #nav-product{
+    margin-top: 50px;
+ }
+ #nav-product a:hover{
+    border: 1px solid #87A243;
+    padding: 8px 12px;
+    border-radius: 25px;
+    margin-right: 10px;
+ }
+ #tred-active{
+    border: 1px solid #87A243;
+    background-color: #87A243;
+    padding: 8px 12px;
+    color: white;
+    border-radius: 25px;
+    margin-right: 15px;
+ }
+ #pro-row2 img{
+   height: 250px;
+   width: 250px;
+ }
+ #pro-row1 img{
+   height: 250px;
+   width: 250px;
+ }
+ .offcanvas-body p{
+   text-align: center;
+ }
+ .offcanvas-body .btn{
+     display: block;
+     margin: auto;
+ }
+
+
